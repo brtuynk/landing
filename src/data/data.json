@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Individual Software Development Consultancy",
+    "paragraph": "You can get help from our large software team in line with your needs and demands."
+  },
+  "About": {
+    "paragraph": "B2i is a software company that can produce fast solutions with its agile team structure to accelerate all software processes of companies. You can get development, consultancy and training services with staff who are well-versed in current technologies.",
+    "Why": [
+      "Individual software",
+      "Use of current technology",
+      "Agile team",
+      "Expert staff"
+    ],
+    "Why2": [
+      "Quick solution",
+      "Hourly consulting opportunity",
+      "Affordable prices",
+      "Happy customer policy"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "A",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "B",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "C",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "D",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "E",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "F",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "G",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "H",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "I",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Software Development",
+      "text": "Bring your application idea to life with our team that is well-versed in up-to-date software technologies."
+    },
+    {
+      "icon": "fa fa-compass",
+      "name": "Software and DevOps Consultancy",
+      "text": "Get daily or hourly support from our staff for Software and DevOps issues."
+    },
+    {
+      "icon": "fa fa-certificate",
+      "name": "TOGAF and ITIL",
+      "text": "Get training and consultancy from our personnel who have TOGAF and ITIL certificates on system management."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Project Management",
+      "text": "Keep your project processes under control with Agile and devops methodology. Benefit from Scrum master consulting."
+    },
+    {
+      "icon": "fa fa-user-secret",
+      "name": "Cyber Security",
+      "text": "Get advice and support from the experts to protect your system."
+    },
+    {
+      "icon": "fa fa-magic",
+      "name": "UX/UI",
+      "text": "Bring the user-friendly screens of your dream application, consisting of unique designs, together with your customers."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Besiktas / ISTANBUL ",
+    "phone": "+90 538 900 90 90 ",
+    "email": "info@b2i.dev",
+    "linkedin": "https://www.linkedin.com/",
+    "twitter": "twitter.com",
+    "github": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-mobile",
+      "title": "Mobile Application",
+      "text": "End-to-end mobile application development services."
+    },
+    {
+      "icon": "fa fa-laptop",
+      "title": "Web Development",
+      "text": "Build your dream website."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "DevOps Consultancy",
+      "text": "Automate development and deployment of your applications at any stage of your apps’ life cycle."
+    },
+    {
+      "icon": "fa fa-lock",
+      "title": "Cyber Security",
+      "text": "Protect your systems, networks, and programs from digital attacks."
+    }
+  ]
+}
