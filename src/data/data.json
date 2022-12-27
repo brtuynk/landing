@@ -132,23 +132,38 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Berat UYANIK",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Burak Öz",
+      "job": "Sales Manager"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Gülşah Coşkun",
+      "job": "Backend Team Leader"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Ahmet İslam Oktay",
+      "job": "Mobile Team Leader"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Ayşe Nur Aka",
+      "job": "UI/UX Team Leader"
+    },
+    {
+      "img": "img/team/07.jpg",
+      "name": "Melek Yazgan",
+      "job": "Project Manager Leader"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Mustafa Kamay",
+      "job": "Senior Backend Developer"
     }
   ],
   "Contact": {
